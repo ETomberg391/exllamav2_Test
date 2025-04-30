@@ -927,3 +927,4 @@ class ExLlamaV2ArchParams:
             "fused_mlp_12": layer_keys_llama_mlp_swiglu[0][0],
             "fused_mlp_3": layer_keys_llama_mlp_swiglu[1][0],
         })
+        
